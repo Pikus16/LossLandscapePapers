@@ -19,4 +19,8 @@ Repo with papers about loss landscape and related topics
 * Entropy-SGD optimizes the prior of a PAC-Bayes bound: Generalization properties of Entropy-SGD and data-dependent priors [2018] -
  https://arxiv.org/abs/1712.09376
   *  Less sharp solution in basin is associated with better generalization
+* Averaging weights leads to wider optima and better generalization [2018] -https://arxiv.org/abs/1803.05407
+  * simple averaging of multiple points along the trajectory of SGD, with a cyclical or constant learning rate, leads to better generalization than conventional training
+  * accuracy is higher at the middle of the basin than at the periphery
+  
 * Visualizing the Loss Landscape of Neural Nets [2017] - https://arxiv.org/abs/1712.09913
