@@ -24,3 +24,4 @@ Repo with papers about loss landscape and related topics
   * accuracy is higher at the middle of the basin than at the periphery
   
 * Visualizing the Loss Landscape of Neural Nets [2017] - https://arxiv.org/abs/1712.09913
+* The Early Phase of Neural Network Training [2020] - https://arxiv.org/pdf/2002.10365.pdf
