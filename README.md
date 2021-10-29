@@ -25,3 +25,6 @@ Repo with papers about loss landscape and related topics
   
 * Visualizing the Loss Landscape of Neural Nets [2017] - https://arxiv.org/abs/1712.09913
 * The Early Phase of Neural Network Training [2020] - https://arxiv.org/pdf/2002.10365.pdf
+* What is being transferred in transfer learning? [2020] - https://arxiv.org/abs/2008.11687
+* Robust fine-tuning of zero-shot models [2021] - https://arxiv.org/pdf/2109.01903.pdf
+* Averaging Weights Leads to Wider Optima and Better Generalization [2018] - https://arxiv.org/abs/1803.05407
