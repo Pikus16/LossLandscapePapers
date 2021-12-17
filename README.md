@@ -31,3 +31,4 @@ Repo with papers about loss landscape and related topics
 * Sharpness-Aware Minimization for Efficiently Improving Generalization  [2021] - https://arxiv.org/pdf/2010.01412.pdf
   *  From https://www.mosaicml.com/methods/sam: "Sharpness-Aware Minimization (SAM) is an optimization algorithm that minimizes both the loss and the sharpness of the loss. It finds parameters that lie in a neighborhood of low loss. The authors find that this improves model generalization."
 * Fantastic Generalization Measures and Where to Find Them [2019] - https://arxiv.org/pdf/1912.02178.pdf 
+* Entropy-SGD: Biasing Gradient Descent Into Wide Valleys [2017] - https://arxiv.org/abs/1611.01838
