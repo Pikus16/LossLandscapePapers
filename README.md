@@ -28,3 +28,5 @@ Repo with papers about loss landscape and related topics
 * What is being transferred in transfer learning? [2020] - https://arxiv.org/abs/2008.11687
 * Robust fine-tuning of zero-shot models [2021] - https://arxiv.org/pdf/2109.01903.pdf
 * Averaging Weights Leads to Wider Optima and Better Generalization [2018] - https://arxiv.org/abs/1803.05407
+* Sharpness-Aware Minimization for Efficiently Improving Generalization  [2021] - https://arxiv.org/pdf/2010.01412.pdf
+  *  From https://www.mosaicml.com/methods/sam: "Sharpness-Aware Minimization (SAM) is an optimization algorithm that minimizes both the loss and the sharpness of the loss. It finds parameters that lie in a neighborhood of low loss. The authors find that this improves model generalization."
