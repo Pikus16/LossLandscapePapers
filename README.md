@@ -33,3 +33,6 @@ Repo with papers about loss landscape and related topics
   *  Some slides: [here](/pdfs/121721_Sharpness-Aware-Minimization-for-Efficiently-Improving-Generalization.pdf)
 * Fantastic Generalization Measures and Where to Find Them [2019] - https://arxiv.org/pdf/1912.02178.pdf 
 * Entropy-SGD: Biasing Gradient Descent Into Wide Valleys [2017] - https://arxiv.org/abs/1611.01838
+* The Role of Permutation Invariance in Linear Mode Connectivity of Neural Networks [2021] - https://arxiv.org/abs/2110.06296
+  * conjecture that if the permutation invariance of neural networks is taken into account, SGD solutions will likely have no barrier in the linear interpolation between them 
+* Embedding Principle of Loss Landscape of Deep Neural Networks [2021] - https://papers.nips.cc/paper/2021/file/7cc532d783a7461f227a5da8ea80bfe1-Paper.pdf
