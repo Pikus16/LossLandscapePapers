@@ -37,3 +37,4 @@ Repo with papers about loss landscape and related topics
   * conjecture that if the permutation invariance of neural networks is taken into account, SGD solutions will likely have no barrier in the linear interpolation between them 
 * Embedding Principle of Loss Landscape of Deep Neural Networks [2021] - https://papers.nips.cc/paper/2021/file/7cc532d783a7461f227a5da8ea80bfe1-Paper.pdf
 * Deep Learning Through the Lens of Example Difficulty [2022] - https://arxiv.org/pdf/2106.09647.pdf
+* Exploring the Loss Landscape in Neural Architecture Search [2021] - https://arxiv.org/abs/2005.02960
