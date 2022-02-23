@@ -39,3 +39,6 @@ Repo with papers about loss landscape and related topics
 * Deep Learning Through the Lens of Example Difficulty [2022] - https://arxiv.org/pdf/2106.09647.pdf
 * Exploring the Loss Landscape in Neural Architecture Search [2021] - https://arxiv.org/abs/2005.02960
 * What Can Linear Interpolation of Neural Network Loss Landscapes Tell Us? [2022] - https://arxiv.org/pdf/2106.16004.pdf
+* Loss Surface Simplexes for Mode Connecting Volumes and Fast Ensembling [2021] - https://arxiv.org/pdf/2102.13042.pdf
+  * efficiently build simplicial complexes for fast ensembling. 
+  * only requires a few training epochs to discover a low-loss simplex starting from a pre-trained solution
