@@ -46,3 +46,4 @@ Repo with papers about loss landscape and related topics
   *  Find that multi-head self-attentions improve not only accuracy but also generalization by flattening the loss landscapes. Such improvement is primarily attributable to their data specificity, not long-range dependency. 
   *  ViTs suffer from non-convex losses. Large datasets and loss landscape smoothing methods alleviate this problem
   *  MSAs and Convs exhibit opposite behaviors. For example, MSAs are low-pass filters, but Convs are high-pass filters. Therefore, MSAs and Convs are complementary  
+* Large Scale Structure of Neural Network Loss Landscapes [2019] - https://arxiv.org/pdf/1906.04724.pdf  
