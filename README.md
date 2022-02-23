@@ -42,3 +42,7 @@ Repo with papers about loss landscape and related topics
 * Loss Surface Simplexes for Mode Connecting Volumes and Fast Ensembling [2021] - https://arxiv.org/pdf/2102.13042.pdf
   * efficiently build simplicial complexes for fast ensembling. 
   * only requires a few training epochs to discover a low-loss simplex starting from a pre-trained solution
+* How Do Vision Transformers Work? [2022] - https://arxiv.org/abs/2202.06709
+  *  Find that multi-head self-attentions improve not only accuracy but also generalization by flattening the loss landscapes. Such improvement is primarily attributable to their data specificity, not long-range dependency. 
+  *  ViTs suffer from non-convex losses. Large datasets and loss landscape smoothing methods alleviate this problem
+  *  MSAs and Convs exhibit opposite behaviors. For example, MSAs are low-pass filters, but Convs are high-pass filters. Therefore, MSAs and Convs are complementary  
