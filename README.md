@@ -1,6 +1,8 @@
 # LossLandscapePapers
 Repo with papers about loss landscape and related topics
  
+* Visualizing high-dimensional loss landscapes with Hessian directions [2022] - https://arxiv.org/abs/2208.13219
+  *  Visualize using smallest and largest eigenvalues of Hessian, and proposes method to estimate trace of Hessian without calculating it.
 * Learning Neural Network Subspaces [2021] - https://arxiv.org/abs/2102.10472
   *  In one training run (so with the same computation cost of training 1 model) train a line, curve, or simplex (k-dimensional triangle) of neural networks.
   
