@@ -1,6 +1,8 @@
 # LossLandscapePapers
 Repo with papers about loss landscape and related topics
  
+* Git Re-Basin: Merging Models modulo Permutation Symmetries [2022] - https://arxiv.org/pdf/2209.04836.pdf
+   * Twitter thread: https://twitter.com/samuelainsworth/status/1569719494645526529?s=46&t=-6a9-WJ0f4NPvBtkMhZTTA
 * Visualizing high-dimensional loss landscapes with Hessian directions [2022] - https://arxiv.org/abs/2208.13219
   *  Visualize using smallest and largest eigenvalues of Hessian, and proposes method to estimate trace of Hessian without calculating it.
 * Learning Neural Network Subspaces [2021] - https://arxiv.org/abs/2102.10472
@@ -26,6 +28,7 @@ Repo with papers about loss landscape and related topics
   * accuracy is higher at the middle of the basin than at the periphery
   
 * Visualizing the Loss Landscape of Neural Nets [2017] - https://arxiv.org/abs/1712.09913
+* Analyzing Monotonic Linear Interpolation in Neural Network Loss Landscapes [2021] - https://arxiv.org/abs/2104.11044
 * The Early Phase of Neural Network Training [2020] - https://arxiv.org/pdf/2002.10365.pdf
 * What is being transferred in transfer learning? [2020] - https://arxiv.org/abs/2008.11687
 * Robust fine-tuning of zero-shot models [2021] - https://arxiv.org/pdf/2109.01903.pdf
